@@ -1,6 +1,10 @@
 # SwingDocumentView
 A swing control which displays page-based documents in different layouts (like a print preview)
 
+## The PageDisplay control
+
+The main Swing control of this library is the de.renber.swing.controls.documentview.PageDisplay which displays page-based documents (e.g. print documents, pdfs).
+
 ## Sample application
 
 The PdfViewerDemo application demonstrates the usage of the PageDisplay control to display a PDF file.
